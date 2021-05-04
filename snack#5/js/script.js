@@ -19,7 +19,7 @@ console.log(arr);
 
 // FUNZIONI
 function control(number) {
-    var verify = number % 2 == 0;
+    var verify = number % 2 == 1;
 
     return verify
 }
